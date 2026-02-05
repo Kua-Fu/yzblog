@@ -1,0 +1,2 @@
+# yzblog
+new blog
