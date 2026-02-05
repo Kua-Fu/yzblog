@@ -1,0 +1,8 @@
+[book]
+authors = ["Kua-Fu"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "Poetic Life"
+
+[preprocess.links]
